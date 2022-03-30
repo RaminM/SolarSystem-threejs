@@ -1,2 +1,2 @@
-# SolarSystem_Three.js.
+# SolarSystem_Three_js
 Solar system using three.js
